@@ -3,5 +3,5 @@ lib: [
   "_build/install/default/lib/adventofcode/opam" {"opam"}
 ]
 bin: [
-  "_build/install/default/bin/OcamlTestProj" {"OcamlTestProj"}
+  "_build/install/default/bin/AdventOfCode" {"AdventOfCode"}
 ]

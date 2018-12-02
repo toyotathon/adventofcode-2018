@@ -1,3 +1,4 @@
+B /Users/jason/.opam/system/lib/Batteries
 B /Users/jason/.opam/system/lib/Core
 B /Users/jason/.opam/system/lib/base
 B /Users/jason/.opam/system/lib/base/caml
@@ -5,10 +6,12 @@ B /Users/jason/.opam/system/lib/base/md5
 B /Users/jason/.opam/system/lib/base/shadow_stdlib
 B /Users/jason/.opam/system/lib/bin_prot
 B /Users/jason/.opam/system/lib/bin_prot/shape
+B /Users/jason/.opam/system/lib/bytes
 B /Users/jason/.opam/system/lib/core_kernel
 B /Users/jason/.opam/system/lib/core_kernel/base_for_tests
 B /Users/jason/.opam/system/lib/fieldslib
 B /Users/jason/.opam/system/lib/jane-street-headers
+B /Users/jason/.opam/system/lib/num
 B /Users/jason/.opam/system/lib/parsexp
 B /Users/jason/.opam/system/lib/ppx_assert/runtime-lib
 B /Users/jason/.opam/system/lib/ppx_bench/runtime-lib
@@ -31,6 +34,7 @@ B /Users/jason/.opam/system/lib/variantslib
 B /usr/local/lib/ocaml
 B /usr/local/lib/ocaml/threads
 B ../_build/default/lib/.lib.objs
+S /Users/jason/.opam/system/lib/Batteries
 S /Users/jason/.opam/system/lib/Core
 S /Users/jason/.opam/system/lib/base
 S /Users/jason/.opam/system/lib/base/caml
@@ -38,10 +42,12 @@ S /Users/jason/.opam/system/lib/base/md5
 S /Users/jason/.opam/system/lib/base/shadow_stdlib
 S /Users/jason/.opam/system/lib/bin_prot
 S /Users/jason/.opam/system/lib/bin_prot/shape
+S /Users/jason/.opam/system/lib/bytes
 S /Users/jason/.opam/system/lib/core_kernel
 S /Users/jason/.opam/system/lib/core_kernel/base_for_tests
 S /Users/jason/.opam/system/lib/fieldslib
 S /Users/jason/.opam/system/lib/jane-street-headers
+S /Users/jason/.opam/system/lib/num
 S /Users/jason/.opam/system/lib/parsexp
 S /Users/jason/.opam/system/lib/ppx_assert/runtime-lib
 S /Users/jason/.opam/system/lib/ppx_bench/runtime-lib
