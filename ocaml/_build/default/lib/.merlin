@@ -1,0 +1,3 @@
+B ../_build/default/lib/.lib.objs
+S .
+FLG -open Lib -w -40

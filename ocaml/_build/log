@@ -1,0 +1,10 @@
+# jbuilder build
+# OCAMLPARAM: unset
+$ /usr/bin/getconf _NPROCESSORS_ONLN > /var/folders/8c/dc7xtjgs0nq22m52sqgsy5800000gn/T/dunef1add3.output 2> /dev/null
+$ /usr/local/bin/ocamlc.opt -config > /var/folders/8c/dc7xtjgs0nq22m52sqgsy5800000gn/T/dune6ad04c.output
+$ /Users/jason/.opam/system/bin/ocamlfind printconf path > /var/folders/8c/dc7xtjgs0nq22m52sqgsy5800000gn/T/dune0a8a59.output
+$ (cd _build/default && /usr/local/bin/ocamldep.opt -modules -impl bin/main.ml) > _build/default/bin/.main.eobjs/main.ml.d
+$ (cd _build/default && /usr/local/bin/ocamlc.opt -w -40 -g -bin-annot -I bin/.main.eobjs -I lib/.lib.objs -no-alias-deps -o bin/.main.eobjs/main.cmo -c -impl bin/main.ml)
+> File "bin/main.ml", line 1, characters 5-9:
+> Error: Unbound module Core
+[2]

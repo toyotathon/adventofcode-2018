@@ -1,0 +1,5 @@
+B ../_build/default/bin/.main.eobjs
+B ../_build/default/lib/.lib.objs
+S .
+S ../lib
+FLG -w -40
