@@ -1,7 +1,0 @@
-lib: [
-  "_build/install/default/lib/adventofcode/META" {"META"}
-  "_build/install/default/lib/adventofcode/opam" {"opam"}
-]
-bin: [
-  "_build/install/default/bin/OcamlTestProj" {"OcamlTestProj"}
-]
